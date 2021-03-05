@@ -39,4 +39,5 @@ app.use(function(err, req, res, next) {
 });
 
 let mivalor;
+let otrovalor;
 module.exports = app;
