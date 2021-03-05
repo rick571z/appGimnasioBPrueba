@@ -9,7 +9,7 @@ var usersRouter = require('./routes/users');
 
 //NUEVAS RUTAS
 const clienteRouter = require('./routes/clientes');
-const profesorRouter = require('/routes/profesores');
+const profesorRouter = require('./routes/profesores');
 
 
 var app = express();
